@@ -1,6 +1,6 @@
-## 64 Facial Landmarks
+## 68 Facial Landmarks
 
-The 64 facial landmarks are reference points used to identify and track specific facial features in images or videos. These landmarks are extremely useful in computer vision applications, such as facial recognition, character animation, augmented reality, and more.
+The 68 facial landmarks are reference points used to identify and track specific facial features in images or videos. These landmarks are extremely useful in computer vision applications, such as facial recognition, character animation, augmented reality, and more.
 
 ![Vídeo sem título ‐ Feito com o Clipchamp (5)](https://github.com/user-attachments/assets/ac10018f-81b0-48fb-a244-894e3e20ede6)
 
