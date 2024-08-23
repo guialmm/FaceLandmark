@@ -11,6 +11,7 @@ Facial landmarks are predefined anatomical points on the face that can be automa
 ### Common Applications
 
 - **Eye and Facial Expression Tracking**: Used to detect where a person is looking or to recognize their emotions:
+- 
 ![Vídeo sem título ‐ Feito com o Clipchamp (7)](https://github.com/user-attachments/assets/6e33d6f5-d14a-4664-a1c1-f7ad93b2cfaa)
 
 - **Facial Animation**: Realistic animations of characters in movies and games often use landmarks to capture human facial movements.
